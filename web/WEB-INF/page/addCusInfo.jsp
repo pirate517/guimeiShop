@@ -5,6 +5,7 @@
     <title>Title</title>
 </head>
 <body>
+<h3>${error}</h3>
    <form action="/customer/addCustomer">
         <label>姓名</label>
        <input type="text" name="cusName" value=""/><br>
